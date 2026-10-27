@@ -6,19 +6,24 @@
 <!-- 2. Centered Animated Hook -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Web+Developer;Cloud+Architecture+Enthusiast;AI+Integration+Builder;Always+learning+new+things&font=Fira+Code&weight=600&size=22&color=3488F7&center=true&vCenter=true&width=440&height=45&pause=1000" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Web+Developer;Cloud+Architecture+Enthusiast;AI+Integration+Builder;Always+learning+new+things&font=Fira+Code&weight=400&size=22&color=3488F7&center=true&vCenter=true&width=440&height=45&pause=1000" alt="Typing SVG" />
   </a>
 </p>
 
 <!-- 3. Centered Contact Row -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-profile-here"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  <a href="https://www.linkedin.com/in/your-profile-here" target="_blank">
+    <img width="30" height="30" alt="LinkedIn" title="LinkedIn" src="https://cdn.simpleicons.org/linkedin/3488F7" />
+  </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="mailto:your.email@example.com"><img width="32px" alt="Email" title="Email" src="https://i.imgur.com/mVm29vK.png"></a>
+  <a href="mailto:your.email@example.com">
+    <img width="30" height="30" alt="Email" title="Email" src="https://cdn.simpleicons.org/gmail/3488F7" />
+  </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://your-portfolio-link.com"><img width="32px" alt="Portfolio" title="Portfolio" src="https://i.imgur.com/OViZO8J.png"/></a>
+  <a href="https://your-portfolio-link.com" target="_blank">
+    <img width="30" height="30" alt="Portfolio" title="Portfolio" src="https://cdn.simpleicons.org/safari/3488F7" />
+  </a>
 </p>
-
 <!-- 4. Centered Quick Stats Badges -->
 <p align="center">
   <a href="https://github.com/Neil-023?tab=followers">
