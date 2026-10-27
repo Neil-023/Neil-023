@@ -1,6 +1,6 @@
 <!-- 1. Centered Hero Section (Your Name) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Neil&font=Fira+Code&center=true&width=440&height=50&color=F75C7E&vCenter=true&size=32&pause=100000" alt="Neil" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hello,+I'm+Neil&font=Fira+Code&center=true&width=440&height=50&color=F75C7E&vCenter=true&size=32&pause=100000" alt="Neil" />
 </p>
 
 <!-- 2. Centered Animated Hook -->
