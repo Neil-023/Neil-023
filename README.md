@@ -13,15 +13,15 @@
 <!-- 3. Centered Contact Row -->
 <p align="center">
   <a href="https://www.linkedin.com/in/your-profile-here" target="_blank">
-    <img src="https://img.shields.io/badge/-3488F7?style=flat-square&logo=linkedin&logoColor=white" height="28" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/--3488F7?style=social&logo=linkedin&logoColor=3488F7" height="30" alt="LinkedIn" />
   </a>
   &#8287;&#8287;&#8287;
   <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/-3488F7?style=flat-square&logo=gmail&logoColor=white" height="28" alt="Email" />
+    <img src="https://img.shields.io/badge/--3488F7?style=social&logo=gmail&logoColor=3488F7" height="30" alt="Email" />
   </a>
   &#8287;&#8287;&#8287;
   <a href="https://your-portfolio-link.com" target="_blank">
-    <img src="https://img.shields.io/badge/-3488F7?style=flat-square&logo=safari&logoColor=white" height="28" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/--3488F7?style=social&logo=googlechrome&logoColor=3488F7" height="30" alt="Portfolio" />
   </a>
 </p>
 <!-- 4. Centered Quick Stats Badges -->
