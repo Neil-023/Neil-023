@@ -1,17 +1,16 @@
-<!-- 1. The Hero Section -->
-<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230" alt="Coding Boy GIF">
-
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello there! I'm Neil <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<p><em>Recent Graduate & Full-Stack Cloud Developer 🇵🇭</em></p>
-
-<p align="left">
-  <!-- Typing SVG by DenverCoder1 -->
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Web+Developer;Cloud+Architecture+Enthusiast;AI+Integration+Builder;Always+learning+new+things&font=Fira+Code&width=440&height=45&color=2F80ED&vCenter=true&pause=1000&size=22" alt="Typing SVG" /></a>
+<!-- 1. Centered Hero Section (Your Name) -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Neil&font=Fira+Code&center=true&width=440&height=50&color=F75C7E&vCenter=true&size=32&pause=100000" alt="Neil" />
 </p>
 
-<!-- 2. The Contact Row -->
-<p align="left">
+<!-- 2. Centered Animated Hook -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Web+Developer;Cloud+Architecture+Enthusiast;AI+Integration+Builder;Always+learning+new+things&font=Fira+Code&center=true&width=440&height=45&color=F75C7E&vCenter=true&pause=1000&size=22" alt="Typing SVG" /></a>
+</p>
+
+<!-- 3. Centered Contact Row -->
+<p align="center">
   <a href="https://www.linkedin.com/in/your-profile-here"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="mailto:your.email@example.com"><img width="32px" alt="Email" title="Email" src="https://i.imgur.com/mVm29vK.png"></a>
@@ -19,8 +18,8 @@
   <a href="https://your-portfolio-link.com"><img width="32px" alt="Portfolio" title="Portfolio" src="https://i.imgur.com/OViZO8J.png"/></a>
 </p>
 
-<!-- 3. The Quick Stats Badges -->
-<p align="left">
+<!-- 4. Centered Quick Stats Badges -->
+<p align="center">
   <a href="https://github.com/Neil-023?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Neil-023?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   <a href="https://github.com/Neil-023?tab=repositories&sort=stargazers">
