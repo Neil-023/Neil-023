@@ -1,12 +1,12 @@
 <!-- 1. Centered Hero Section (Your Name) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hello,+I'm+Neil&font=Inter&weight=600&size=32&color=3488F7&center=true&vCenter=true&width=440&height=50&duration=1&pause=10000000&repeat=false" alt="Hello, I'm Neil" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hello,+I'm+Neil&font=Fira+Code&weight=600&size=32&color=3488F7&center=true&vCenter=true&width=440&height=50&duration=1&pause=10000000&repeat=false" alt="Hello, I'm Neil" />
 </p>
 
 <!-- 2. Centered Animated Hook -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Web+Developer;Cloud+Architecture+Enthusiast;AI+Integration+Builder;Always+learning+new+things&font=Inter&weight=600&size=22&color=3488F7&center=true&vCenter=true&width=440&height=45&pause=1000" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Web+Developer;Cloud+Architecture+Enthusiast;AI+Integration+Builder;Always+learning+new+things&font=Fira+Code&weight=600&size=22&color=3488F7&center=true&vCenter=true&width=440&height=45&pause=1000" alt="Typing SVG" />
   </a>
 </p>
 
