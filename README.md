@@ -88,11 +88,9 @@ const neil = {
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
-
 **🐱 My GitHub Data** 
 
-> 📦 ? Used in GitHub's Storage 
+> 📦 552.7 kB Used in GitHub's Storage 
  > 
 > 🏆 218 Contributions in the Year 2026
  > 
@@ -100,32 +98,34 @@ const neil = {
  > 
 > 📜 17 Public Repositories 
  > 
-> 🔑 0 Private Repositories 
+> 🔑 5 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                9 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
-🌆 Daytime                196 commits         ███████████████░░░░░░░░░░   59.21 % 
-🌃 Evening                95 commits          ███████░░░░░░░░░░░░░░░░░░   28.70 % 
-🌙 Night                  31 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.37 % 
+🌞 Morning                26 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
+🌆 Daytime                239 commits         ██████████████░░░░░░░░░░░   54.94 % 
+🌃 Evening                126 commits         ███████░░░░░░░░░░░░░░░░░░   28.97 % 
+🌙 Night                  44 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   39 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
-Tuesday                  49 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
-Wednesday                44 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
-Thursday                 100 commits         ████████░░░░░░░░░░░░░░░░░   30.21 % 
-Friday                   29 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
-Saturday                 56 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.92 % 
-Sunday                   14 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
+Monday                   57 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
+Tuesday                  69 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.86 % 
+Wednesday                56 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.87 % 
+Thursday                 111 commits         ██████░░░░░░░░░░░░░░░░░░░   25.52 % 
+Friday                   37 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
+Saturday                 80 commits          █████░░░░░░░░░░░░░░░░░░░░   18.39 % 
+Sunday                   25 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
 ```
 
 
 📊 **This Week I Spent My Time On** 
 
 ```text
+🕑︎ Time Zone: Asia/Singapore
+
 💬 Programming Languages: 
 No Activity Tracked This Week
 
@@ -136,28 +136,18 @@ No Activity Tracked This Week
 No Activity Tracked This Week
 ```
 
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               6 repos             ██████████░░░░░░░░░░░░░░░   40.00 % 
-Python                   3 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-PHP                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
-HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-Dart                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+JavaScript               11 repos            ██████████░░░░░░░░░░░░░░░   40.74 % 
+Python                   3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+PHP                      3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+Dart                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
 ```
 
 
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/Neil-023/Neil-023/main/assets/bar_graph.png)
-
-
- Last Updated on 27/10/2026 21:52:09 UTC
+ Last Updated on 27/10/2026 22:21:42 UTC
 <!--END_SECTION:waka-->
