@@ -29,6 +29,38 @@
 </p>
 <br/>
 
+<!-- The Right-Aligned GIF MUST go first -->
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
+<em>Recent Graduate & Full-Stack Cloud Developer 🚀</em><br><br>
+
+<!-- 1. The Small Social Badges -->
+<a href="https://www.linkedin.com/in/your-profile-here">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="mailto:your.email@example.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email">
+</a>
+<a href="https://your-portfolio.com">
+  <img src="https://img.shields.io/badge/Portfolio-2563EB?style=flat&logo=safari&logoColor=white" alt="Portfolio">
+</a>
+<br><br>
+
+<!-- 2. The Large Status Badge (Replacing 'Developer of the Day') -->
+<img src="https://img.shields.io/badge/%F0%9F%9A%80_STATUS-OPEN_TO_WORK-success?style=for-the-badge" alt="Open to Work">
+<br><br>
+
+<!-- 3. The 'Meet Me' Section -->
+### 📫 Let's Connect!
+I am currently seeking full-time software engineering roles. Let's chat about how my skills in React, AWS Serverless, and AI integration can bring value to your engineering team!
+<br><br>
+
+<!-- 4. The Terminal Command (Replacing the npx command) -->
+👇 Run this in your terminal to check out my AI Fire Safety project:
+
+```bash
+git clone [https://github.com/Neil-023/Alitaptap.git](https://github.com/Neil-023/Alitaptap.git)
+
 <!-- 4. The Developer Bio -->
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
