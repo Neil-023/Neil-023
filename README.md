@@ -114,11 +114,9 @@ const neil = {
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
-
 **🐱 My GitHub Data** 
 
-> 📦 552.8 kB Used in GitHub's Storage 
+> 📦 553.5 kB Used in GitHub's Storage 
  > 
 > 🏆 231 Contributions in the Year 2026
  > 
@@ -128,42 +126,6 @@ const neil = {
  > 
 > 🔑 5 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                34 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
-🌆 Daytime                240 commits         █████████████░░░░░░░░░░░░   53.81 % 
-🌃 Evening                128 commits         ███████░░░░░░░░░░░░░░░░░░   28.70 % 
-🌙 Night                  44 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.87 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   57 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.78 % 
-Tuesday                  69 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
-Wednesday                67 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.02 % 
-Thursday                 111 commits         ██████░░░░░░░░░░░░░░░░░░░   24.89 % 
-Friday                   37 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
-Saturday                 80 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.94 % 
-Sunday                   25 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Singapore
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -177,5 +139,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/10/2026 11:59:10 UTC
+ Last Updated on 28/10/2026 18:01:57 UTC
 <!--END_SECTION:waka-->
