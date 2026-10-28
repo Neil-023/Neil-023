@@ -12,7 +12,7 @@
 
 <!-- 3. Centered Contact Row -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/neil23/" target="_blank">
+  <a href="https://neil-023.github.io/Portfolio" target="_blank">
     <img width="32" alt="LinkedIn" src="https://i.imgur.com/yfZAa9M.png" />
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -20,8 +20,8 @@
     <img width="32" alt="Email" src="https://i.imgur.com/xAmywIX.png" />
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://neil-023.github.io/Portfolio " target="_blank">
-    <img width="32" alt="Portfolio" src="https://i.imgur.com/Q8LoVml.png" />
+  <a href="https://discordapp.com/users/771010096032382997" target="_blank">
+    <img width="32" alt="Discord" src="https://i.imgur.com/Q8LoVml.png" />
   </a>
 </p>
 <!-- 4. Centered Quick Stats Badges -->
@@ -34,9 +34,9 @@
     <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=Neil-023&label=Profile%20Views&color=8a2be2&style=for-the-badge"/></a>
 </p>
 <br/>
-<!-- The Right-Aligned GIF MUST go first -->
+<!-- 1. The Cat (Increased width to 320 to make it bigger and naturally extend further left) -->
 <a href="#">
-  <img align="right" src="https://media.giphy.com/media/mVfe0ZTGa0qn464HmN/giphy.gif" width="230" alt="Pixel Art Black Cat">
+  <img align="right" src="https://media.giphy.com/media/mVfe0ZTGa0qn464HmN/giphy.gif" width="320" alt="Pixel Art Black Cat">
 </a>
 
 ### Favorite Tech
@@ -44,11 +44,12 @@
 
 | | | | |
 | :---: | :---: | :---: | :---: |
-| <img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React"/><br>React | <img width="32" src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg" alt="Vite"/><br>Vite | <img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript"/><br>JS | <img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" alt="Flutter"/><br>Flutter |
-| <img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js"/><br>Node.js | <img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python"/><br>Python | <img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" alt="FastAPI"/><br>FastAPI | <img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL"/><br>Postgres |
-| <img width="32" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS"/><br>AWS | <img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker"/><br>Docker | <img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" alt="Terraform"/><br>Terraform | <img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" alt="Nginx"/><br>Nginx |
-| <img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux"/><br>Linux | <img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git"/><br>Git | <img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" alt="Firebase"/><br>Firebase | <img width="32" src="https://cdn.simpleicons.org/googlegemini/8E75B2" alt="Gemini AI"/><br>Gemini |
+| <img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React"/><br>&nbsp;&nbsp;&nbsp;&nbsp;React&nbsp;&nbsp;&nbsp;&nbsp; | <img width="32" src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg" alt="Vite"/><br>&nbsp;&nbsp;&nbsp;&nbsp;Vite&nbsp;&nbsp;&nbsp;&nbsp; | <img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript"/><br>&nbsp;&nbsp;&nbsp;&nbsp;JS&nbsp;&nbsp;&nbsp;&nbsp; | <img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" alt="Flutter"/><br>&nbsp;&nbsp;&nbsp;&nbsp;Flutter&nbsp;&nbsp;&nbsp;&nbsp; |
+| <img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js"/><br>&nbsp;&nbsp;&nbsp;&nbsp;Node.js&nbsp;&nbsp;&nbsp;&nbsp; | <img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python"/><br>&nbsp;&nbsp;&nbsp;&nbsp;Python&nbsp;&nbsp;&nbsp;&nbsp; | <img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" alt="FastAPI"/><br>&nbsp;&nbsp;&nbsp;&nbsp;FastAPI&nbsp;&nbsp;&nbsp;&nbsp; | <img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL"/><br>&nbsp;&nbsp;&nbsp;&nbsp;Postgres&nbsp;&nbsp;&nbsp;&nbsp; |
+| <img width="32" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS"/><br>&nbsp;&nbsp;&nbsp;&nbsp;AWS&nbsp;&nbsp;&nbsp;&nbsp; | <img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker"/><br>&nbsp;&nbsp;&nbsp;&nbsp;Docker&nbsp;&nbsp;&nbsp;&nbsp; | <img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" alt="Terraform"/><br>&nbsp;&nbsp;&nbsp;&nbsp;Terraform&nbsp;&nbsp;&nbsp;&nbsp; | <img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" alt="Nginx"/><br>&nbsp;&nbsp;&nbsp;&nbsp;Nginx&nbsp;&nbsp;&nbsp;&nbsp; |
+| <img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux"/><br>&nbsp;&nbsp;&nbsp;&nbsp;Linux&nbsp;&nbsp;&nbsp;&nbsp; | <img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git"/><br>&nbsp;&nbsp;&nbsp;&nbsp;Git&nbsp;&nbsp;&nbsp;&nbsp; | <img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" alt="Firebase"/><br>&nbsp;&nbsp;&nbsp;&nbsp;Firebase&nbsp;&nbsp;&nbsp;&nbsp; | <img width="32" src="https://cdn.simpleicons.org/googlegemini/8E75B2" alt="Gemini AI"/><br>&nbsp;&nbsp;&nbsp;&nbsp;Gemini&nbsp;&nbsp;&nbsp;&nbsp; |
 
+<br><br>
 
 
 <!-- 4. The Developer Bio -->
