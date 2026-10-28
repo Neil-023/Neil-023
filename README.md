@@ -6,22 +6,22 @@
 <!-- 2. Centered Animated Hook -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Web+Developer;Cloud+Architecture+Enthusiast;AI+Integration+Builder;Always+learning+new+things&font=Fira+Code&weight=400&size=22&color=3488F7&center=true&vCenter=true&width=440&height=45&pause=1000" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Cloud+Developer;React+Developer;AWS+Serverless+Architect;AI-Driven+Application+Builder&font=Fira+Code&weight=400&size=22&color=3488F7&center=true&vCenter=true&width=440&height=45&pause=1000" alt="Typing SVG" />
   </a>
 </p>
 
 <!-- 3. Centered Contact Row -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-profile-here" target="_blank">
-    <img src="https://img.shields.io/badge/--3488F7?style=social&logo=linkedin&logoColor=3488F7" height="30" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/neil23/" target="_blank">
+    <img width="32" alt="LinkedIn" src="https://i.imgur.com/yfZAa9M.png" />
   </a>
-  &#8287;&#8287;&#8287;
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/--3488F7?style=social&logo=gmail&logoColor=3488F7" height="30" alt="Email" />
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="mailto:neiljohn.nj23@gmail.com">
+    <img width="32" alt="Email" src="https://i.imgur.com/xAmywIX.png" />
   </a>
-  &#8287;&#8287;&#8287;
-  <a href="https://your-portfolio-link.com" target="_blank">
-    <img src="https://img.shields.io/badge/--3488F7?style=social&logo=googlechrome&logoColor=3488F7" height="30" alt="Portfolio" />
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://neil-023.github.io/Portfolio " target="_blank">
+    <img width="32" alt="Portfolio" src="https://i.imgur.com/Q8LoVml.png" />
   </a>
 </p>
 <!-- 4. Centered Quick Stats Badges -->
@@ -34,40 +34,22 @@
     <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=Neil-023&label=Profile%20Views&color=8a2be2&style=for-the-badge"/></a>
 </p>
 <br/>
-
 <!-- The Right-Aligned GIF MUST go first -->
-<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-
-<em>Recent Graduate & Full-Stack Cloud Developer 🚀</em><br><br>
-
-<!-- 1. The Small Social Badges -->
-<a href="https://www.linkedin.com/in/your-profile-here">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+<a href="#">
+  <img align="right" src="https://media.giphy.com/media/mVfe0ZTGa0qn464HmN/giphy.gif" width="230" alt="Pixel Art Black Cat">
 </a>
-<a href="mailto:your.email@example.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email">
-</a>
-<a href="https://your-portfolio.com">
-  <img src="https://img.shields.io/badge/Portfolio-2563EB?style=flat&logo=safari&logoColor=white" alt="Portfolio">
-</a>
-<br><br>
 
-<!-- 2. The Large Status Badge (Replacing 'Developer of the Day') -->
-<img src="https://img.shields.io/badge/%F0%9F%9A%80_STATUS-OPEN_TO_WORK-success?style=for-the-badge" alt="Open to Work">
-<br><br>
+### Favorite Tech
+> Tools, languages, and other things that I like to work with.
 
-<!-- 3. The 'Meet Me' Section -->
-### 📫 Let's Connect!
-I am currently seeking full-time software engineering roles. Let's chat about how my skills in React, AWS Serverless, and AI integration can bring value to your engineering team!
-<br><br>
+| | | | |
+| :---: | :---: | :---: | :---: |
+| <img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React"/><br>React | <img width="32" src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg" alt="Vite"/><br>Vite | <img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript"/><br>JS | <img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" alt="Flutter"/><br>Flutter |
+| <img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js"/><br>Node.js | <img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python"/><br>Python | <img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" alt="FastAPI"/><br>FastAPI | <img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL"/><br>Postgres |
+| <img width="32" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS"/><br>AWS | <img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker"/><br>Docker | <img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" alt="Terraform"/><br>Terraform | <img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" alt="Nginx"/><br>Nginx |
+| <img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux"/><br>Linux | <img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git"/><br>Git | <img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" alt="Firebase"/><br>Firebase | <img width="32" src="https://cdn.simpleicons.org/googlegemini/8E75B2" alt="Gemini AI"/><br>Gemini |
 
-<!-- 4. The Terminal Command (Replacing the npx command) -->
-👇 Run this in your terminal to check out my AI Fire Safety project:
 
-```bash
-git clone [https://github.com/Neil-023/Alitaptap.git](https://github.com/Neil-023/Alitaptap.git)
-
-```
 
 <!-- 4. The Developer Bio -->
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
@@ -75,16 +57,68 @@ git clone [https://github.com/Neil-023/Alitaptap.git](https://github.com/Neil-02
 ```javascript
 const neil = {
   name: "Neil",
-  status: "Fresh Graduate",
-  focus: ["Cloud Architecture", "Generative AI", "Web Development"],
+  pronouns: ["He", "Him"],
+  languages: ["JavaScript", "TypeScript", "Python", "Dart", "PHP", "Bash"],
+  askMeAbout: [
+    "full-stack web development",
+    "cloud architecture",
+    "serverless deployments",
+    "generative AI integration",
+    "infrastructure as code",
+    "computer vision"
+  ],
+
   technologies: {
-    frontend: ["React", "Vite", "HTML5", "CSS3"],
-    backend: ["FastAPI", "Python", "Node.js"],
-    cloud: ["AWS Lambda", "Terraform", "GitHub Actions", "Docker"],
-    ai: ["Google Gemini API", "Computer Vision"]
+    frontend: {
+      frameworks: ["React", "Vite", "PWA"],
+      stylingAndAnimation: ["CSS3", "GSAP"]
+    },
+
+    backend: {
+      python: ["FastAPI"],
+      node: ["Node.js"],
+      php: ["PHP"]
+    },
+
+    mobile: {
+      crossPlatform: ["Flutter"]
+    },
+
+    devOps: {
+      tools: ["Docker", "GitHub Actions", "Nginx", "Git", "WSL", "Linux"],
+      practices: ["CI/CD Workflows", "Infrastructure as Code"]
+    },
+
+    cloud: {
+      aws: ["Lambda", "EC2"],
+      oci: ["Oracle Cloud Infrastructure"],
+      iac: ["Terraform"]
+    },
+
+    databases: {
+      relational: ["PostgreSQL", "MySQL"],
+      nosql: ["Firebase"]
+    },
+
+    realtimeAndAPIs: [
+      "RESTful APIs"
+    ],
+
+    ai: {
+      capabilities: [
+        "LLM Integration",
+        "Computer Vision",
+        "AI-powered safety inspection"
+      ],
+      models: ["Google Gemini API"]
+    }
   },
-  currentProject: "Alitaptap - AI-powered fire safety inspector",
-  funFact: "Most bugs disappear after a coffee and a clean commit history"
+
+  architecture: {
+    frontend: ["SPA", "PWA"],
+    backend: ["Serverless", "RESTful Architecture"],
+    cloudPatterns: ["Event-driven", "Infrastructure as Code"]
+  }
 };
 ```
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
