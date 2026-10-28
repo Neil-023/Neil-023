@@ -81,10 +81,6 @@ const neil = {
       php: ["PHP"]
     },
 
-    mobile: {
-      crossPlatform: ["Flutter"]
-    },
-
     devOps: {
       tools: ["Docker", "GitHub Actions", "Nginx", "Git", "WSL", "Linux"],
       practices: ["CI/CD Workflows", "Infrastructure as Code"]
@@ -104,15 +100,6 @@ const neil = {
     realtimeAndAPIs: [
       "RESTful APIs"
     ],
-
-    ai: {
-      capabilities: [
-        "LLM Integration",
-        "Computer Vision",
-        "AI-powered safety inspection"
-      ],
-      models: ["Google Gemini API"]
-    }
   },
 
   architecture: {
