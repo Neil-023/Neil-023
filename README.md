@@ -114,6 +114,8 @@ const neil = {
 ---
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2048%20mins-blue?style=flat)
+
 **🐱 My GitHub Data** 
 
 > 📦 553.5 kB Used in GitHub's Storage 
@@ -126,6 +128,47 @@ const neil = {
  > 
 > 🔑 5 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                34 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
+🌆 Daytime                240 commits         █████████████░░░░░░░░░░░░   53.81 % 
+🌃 Evening                128 commits         ███████░░░░░░░░░░░░░░░░░░   28.70 % 
+🌙 Night                  44 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.87 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   57 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.78 % 
+Tuesday                  69 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
+Wednesday                67 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.02 % 
+Thursday                 111 commits         ██████░░░░░░░░░░░░░░░░░░░   24.89 % 
+Friday                   37 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
+Saturday                 80 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.94 % 
+Sunday                   25 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Singapore
+
+💬 Programming Languages: 
+Markdown                 2 hrs 2 mins        ██████████████░░░░░░░░░░░   56.02 % 
+JavaScript               52 mins             ██████░░░░░░░░░░░░░░░░░░░   24.13 % 
+YAML                     28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
+CSS                      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
+Bash                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
+
+🔥 Editors: 
+VS Code                  3 hrs 35 mins       █████████████████████████   98.61 % 
+Copilot CLI              3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
+
+💻 Operating System: 
+Windows                  3 hrs 38 mins       █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -139,5 +182,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/10/2026 18:01:57 UTC
+ Last Updated on 29/10/2026 03:58:41 UTC
 <!--END_SECTION:waka-->
