@@ -155,18 +155,17 @@ Sunday                   25 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Markdown                 2 hrs 2 mins        ██████████████░░░░░░░░░░░   56.02 % 
-JavaScript               52 mins             ██████░░░░░░░░░░░░░░░░░░░   24.13 % 
-YAML                     28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
-CSS                      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
-Bash                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
+Markdown                 2 hrs 2 mins        ██████████████░░░░░░░░░░░   56.81 % 
+JavaScript               50 mins             ██████░░░░░░░░░░░░░░░░░░░   23.21 % 
+YAML                     28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
+CSS                      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
+Bash                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 35 mins       █████████████████████████   98.61 % 
-Copilot CLI              3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
+VS Code                  3 hrs 35 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  3 hrs 38 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 35 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -182,5 +181,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 30/10/2026 17:54:20 UTC
+ Last Updated on 30/10/2026 21:53:27 UTC
 <!--END_SECTION:waka-->
