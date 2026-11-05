@@ -155,17 +155,15 @@ Sunday                   26 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Markdown                 2 hrs 2 mins        ████████████░░░░░░░░░░░░░   47.34 % 
-JavaScript               1 hr 16 mins        ███████░░░░░░░░░░░░░░░░░░   29.62 % 
-YAML                     28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
-CSS                      25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-Bash                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
+JavaScript               26 mins             ███████████████░░░░░░░░░░   61.69 % 
+CSS                      16 mins             █████████░░░░░░░░░░░░░░░░   37.41 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 18 mins       █████████████████████████   100.00 % 
+VS Code                  43 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  4 hrs 18 mins       █████████████████████████   100.00 % 
+Windows                  43 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -181,5 +179,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 04/11/2026 23:07:14 UTC
+ Last Updated on 05/11/2026 04:45:36 UTC
 <!--END_SECTION:waka-->
