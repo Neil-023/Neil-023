@@ -114,38 +114,36 @@ const neil = {
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%2030%20mins-blue?style=flat)
-
 **🐱 My GitHub Data** 
 
-> 📦 555.1 kB Used in GitHub's Storage 
+> 📦 608.6 kB Used in GitHub's Storage 
  > 
-> 🏆 237 Contributions in the Year 2026
+> 🏆 242 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 17 Public Repositories 
+> 📜 18 Public Repositories 
  > 
 > 🔑 5 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                36 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
-🌆 Daytime                240 commits         █████████████░░░░░░░░░░░░   53.10 % 
-🌃 Evening                132 commits         ███████░░░░░░░░░░░░░░░░░░   29.20 % 
-🌙 Night                  44 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
+🌞 Morning                36 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
+🌆 Daytime                240 commits         █████████████░░░░░░░░░░░░   52.63 % 
+🌃 Evening                136 commits         ███████░░░░░░░░░░░░░░░░░░   29.82 % 
+🌙 Night                  44 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   61 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
-Tuesday                  69 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.27 % 
-Wednesday                67 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.82 % 
-Thursday                 111 commits         ██████░░░░░░░░░░░░░░░░░░░   24.56 % 
-Friday                   37 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
-Saturday                 81 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.92 % 
-Sunday                   26 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
+Monday                   61 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
+Tuesday                  73 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.01 % 
+Wednesday                67 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
+Thursday                 111 commits         ██████░░░░░░░░░░░░░░░░░░░   24.34 % 
+Friday                   37 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
+Saturday                 81 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.76 % 
+Sunday                   26 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
 ```
 
 
@@ -155,29 +153,27 @@ Sunday                   26 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-JavaScript               26 mins             ███████████████░░░░░░░░░░   61.69 % 
-CSS                      16 mins             █████████░░░░░░░░░░░░░░░░   37.41 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
+YAML                     1 min               █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  43 mins             █████████████████████████   100.00 % 
+VS Code                  1 min               █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  43 mins             █████████████████████████   100.00 % 
+Windows                  1 min               █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               11 repos            ██████████░░░░░░░░░░░░░░░   40.74 % 
-Python                   3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-PHP                      3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-Dart                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
-HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+JavaScript               11 repos            ██████████░░░░░░░░░░░░░░░   39.29 % 
+Python                   3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
+PHP                      3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
+HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+Dart                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
 ```
 
 
 
 
- Last Updated on 05/11/2026 23:10:19 UTC
+ Last Updated on 10/11/2026 22:45:11 UTC
 <!--END_SECTION:waka-->
