@@ -155,13 +155,13 @@ Sunday                   26 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-YAML                     1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -177,5 +177,5 @@ Dart                     2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 17/11/2026 15:24:17 UTC
+ Last Updated on 18/11/2026 00:24:40 UTC
 <!--END_SECTION:waka-->
