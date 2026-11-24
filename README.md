@@ -114,7 +114,7 @@ const neil = {
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%2048%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%20hrs%2013%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -155,17 +155,17 @@ Sunday                   26 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Python                   37 mins             ████████████░░░░░░░░░░░░░   47.35 % 
-Bash                     18 mins             ██████░░░░░░░░░░░░░░░░░░░   22.71 % 
-Text                     16 mins             █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
-Other                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
-JavaScript               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
+Bash                     58 mins             █████████░░░░░░░░░░░░░░░░   35.44 % 
+Python                   48 mins             ███████░░░░░░░░░░░░░░░░░░   29.28 % 
+Text                     28 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.35 % 
+JavaScript               22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
+YAML                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
 
 🔥 Editors: 
-VS Code                  1 hr 19 mins        █████████████████████████   100.00 % 
+VS Code                  2 hrs 44 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 19 mins        █████████████████████████   100.00 % 
+Windows                  2 hrs 44 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -181,5 +181,5 @@ Dart                     2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 23/11/2026 17:09:03 UTC
+ Last Updated on 24/11/2026 03:43:48 UTC
 <!--END_SECTION:waka-->
